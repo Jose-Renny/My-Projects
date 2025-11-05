@@ -8,5 +8,7 @@ package backend.java;
 public class Hello {
     public static void main(String[] args) {
         
+        // Declaring variable
+        String str = "Hello World";
     }
 }
