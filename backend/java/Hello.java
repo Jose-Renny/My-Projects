@@ -10,5 +10,8 @@ public class Hello {
         
         // Declaring variable
         String str = "Hello World";
+
+        // Prints the message
+        System.out.println(str);
     }
 }
